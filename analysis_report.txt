@@ -1,0 +1,30 @@
+========================================
+       AWS IoT SENSOR ANALYSIS REPORT
+========================================
+
+Device ID: sensor01
+Total Readings: 1342
+
+------------- TEMPERATURE --------------
+Average Temperature: 27.68 °C
+Minimum Temperature: 20.0 °C
+Maximum Temperature: 34.99 °C
+
+--------------- HUMIDITY ----------------
+Average Humidity: 59.57 %
+Minimum Humidity: 40.08 %
+Maximum Humidity: 79.99 %
+
+---------------- PRESSURE ---------------
+Average Pressure: 1010.11 hPa
+Minimum Pressure: 1000.0 hPa
+Maximum Pressure: 1019.99 hPa
+
+--------- HIGH TEMPERATURE --------------
+Threshold: 30.0 °C
+High Temperature Count: 474
+Status: HIGH TEMPERATURE DETECTED
+
+========================================
+          ANALYSIS COMPLETED
+========================================
